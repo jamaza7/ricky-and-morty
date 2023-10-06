@@ -2,6 +2,9 @@
 # http://git-scm.com/docs/gitignore
 
 
+/.vscode
+
+
 *~
 *.sw[mnpcod]
 .tmp
@@ -68,4 +71,3 @@ testem.log
 .DS_Store
 Thumbs.db
 
-angular.json
