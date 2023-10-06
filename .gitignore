@@ -1,6 +1,8 @@
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
+src/assets/icon
+
 *~
 *.sw[mnpcod]
 .tmp
@@ -67,4 +69,3 @@ testem.log
 .DS_Store
 Thumbs.db
 
-tsconfig.spec.json
