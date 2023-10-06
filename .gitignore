@@ -68,4 +68,4 @@ testem.log
 Thumbs.db
 
 
-.tsconfig.spec.json
+tsconfig.spec.json
