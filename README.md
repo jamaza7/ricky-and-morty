@@ -9,7 +9,7 @@ Consuming API Rick and Morty with Ionic
 
 ## Installation
 
-Install my-project with npm
+Clone the repository
 
 ```bash
   git clone https://github.com/jamaza7/ricky-and-morty.git
@@ -19,6 +19,6 @@ Install my-project with npm
 Install dependencies and start
 
 ```
-    pnpm i
+    npm i
     ionic serve
 ```
