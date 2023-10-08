@@ -1,11 +1,14 @@
 # Project Ionic-Angular
 
-Consuming API Rick and Morty with Ionic
+Consumir API Rick y Morty con Ionic-Angular
 
-## Screenshots
+## Tabla de Contenidos
 
-![App Screenshot](src/assets/demo/iconic_home.png)
-![App Screenshot](src/assets/demo/ionic_ricky.png)
+- [Instalación](#instalación)
+- [Configuracion](#configuracion)
+- [Ejecutar Proyecto](#ejecutar-proyecto)
+- [Capturas](#capturas)
+- [Licencia](#licencia)
 
 ## Installation
 
@@ -25,10 +28,19 @@ Instalar dependencias
   npm install
 ```
 
-### Ejetutar proyecto
+### Ejecutar Proyecto
 
 Para ejecutar el proyecto debera ejecutar el siguiente comando
 
 ```bash
   ionic serve
 ```
+
+## Capturas
+
+![App Screenshot](src/assets/demo/iconic_home.png)
+![App Screenshot](src/assets/demo/ionic_ricky.png)
+
+## Licencia
+
+[MIT](https://choosealicense.com/licenses/mit/)
