@@ -8,6 +8,7 @@ Consumir API Rick y Morty con Ionic-Angular
 - [Configuracion](#configuracion)
 - [Ejecutar Proyecto](#ejecutar-proyecto)
 - [Capturas](#capturas)
+- [Créditos](#créditos)
 - [Licencia](#licencia)
 
 ## Installation
@@ -40,6 +41,11 @@ Para ejecutar el proyecto debera ejecutar el siguiente comando
 
 ![App Screenshot](src/assets/demo/iconic_home.png)
 ![App Screenshot](src/assets/demo/ionic_ricky.png)
+
+## Créditos
+
+Agradecimientos al **Mgs. Patricio Vaca Esbocar** por
+su orientación y apoyo valioso durante este perido academico 💯.
 
 ## Licencia
 
