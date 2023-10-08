@@ -14,13 +14,12 @@ El proyecto utiliza las siguientes tecnologías y herramientas:
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Configuracion](#configuracion)
 - [Ejecutar Proyecto](#ejecutar-proyecto)
 - [Capturas](#capturas)
 - [Créditos](#créditos)
 - [Licencia](#licencia)
 
-## Installation
+## Instalación
 
 > **Nota:** Para ejecutar este proyecto debera tener instalado nodejs en la version **LTS** o posteriores
 
