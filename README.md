@@ -9,6 +9,8 @@ Consuming API Rick and Morty with Ionic
 
 ## Installation
 
+> **Nota:** Para ejecutar este proyecto debera tener instalado nodejs en la version **LTS** o posteriores
+
 Clone the repository
 
 ```bash
@@ -16,9 +18,17 @@ Clone the repository
   cd ricky-and-morty
 ```
 
-Install dependencies and start
+Instalar dependencias
 
+```javascript
+  npm i -g @ionic/cli
+  npm install
 ```
-    npm i
-    ionic serve
+
+### Ejetutar proyecto
+
+Para ejecutar el proyecto debera ejecutar el siguiente comando
+
+```bash
+  ionic serve
 ```
