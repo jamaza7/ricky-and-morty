@@ -1,6 +1,15 @@
-# Project Ionic-Angular
+# Proyecto Ionic-Angular
 
 Consumir API Rick y Morty con Ionic-Angular
+
+### Tecnologías Utilizadas
+
+El proyecto utiliza las siguientes tecnologías y herramientas:
+
+- Angular
+- Ionic
+- HTML y CSS
+- Git y GitHub para el control de versiones y documentación del proyecto.
 
 ## Tabla de Contenidos
 
